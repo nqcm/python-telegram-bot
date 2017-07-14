@@ -1,0 +1,4 @@
+*.pyc
+config.py
+*.sqlite
+*.DS_Store
